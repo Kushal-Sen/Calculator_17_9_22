@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "calculator.h"
+#include "CalculatorLibrary\calculator.h"
 int main ()
 {
     int result = calculateSumOfThree(2,2,1);
