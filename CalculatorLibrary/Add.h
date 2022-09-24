@@ -1,1 +1,1 @@
-int add(int,int);
+int add(int,int); // declaring the function
